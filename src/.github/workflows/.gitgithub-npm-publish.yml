@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - develop
+      - main
 
 jobs:
   publish:
@@ -15,4 +15,4 @@ jobs:
       - run: npm test
       - uses: JS-DevTools/npm-publish@v1
         with:
-          token: ${{ secrets.NPM_TOKEN }}
+          token: ${{ secrets.test-token }}
