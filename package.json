@@ -1,6 +1,6 @@
 {
-  "name": "@flosssolis/my-test-registry",
-  "version": "0.0.17",
+  "name": "@aldrin-exchange/aldrin-registry",
+  "version": "0.0.1",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flosssolis1/test-registry.git"
+    "url": "git+https://github.com/aldrin-exchange/aldrin-registry"
   },
-  "author": "@flosssolis1",
+  "author": "@rindeveloper",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/flosssolis1/test-registry/issues"
+    "url": "https://github.com/aldrin-exchange/aldrin-registry/issues"
   },
-  "homepage": "https://github.com/flosssolis1/test-registry/blob/main/README.md",
+  "homepage": "https://github.com/aldrin-exchange/aldrin-registry#readme",
   "files": [
     "src"
   ],
